@@ -1,29 +1,5 @@
-# SRE Labs
+# 🚀 SRE Engineering Handbook
 
-A collection of hands-on labs covering modern Site Reliability Engineering practices.
+> A practical knowledge base covering Site Reliability Engineering, Platform Engineering, Cloud and Observability.
 
----
-
-## Roadmap
-
-- Linux
-- Networking
-- Docker
-- Kubernetes
-- Azure
-- AWS
-- Terraform
-- Ansible
-- Dynatrace
-- OpenTelemetry
-- API Management
-- Incident Response
-- Health Checks
-- Synthetic Monitoring
-- GitHub Actions
-
----
-
-## Status
-
-🚧 Under development
+Repository: **sre-labs**
