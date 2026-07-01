@@ -82,6 +82,10 @@ sre-engineering-handbook/
 
 🚧 Under development
 
+---
+
 Created and maintained by Ederson do Nascimento.
+
 GitHub: [Ederson do Nascimento](https://github.com/Ederson85)
+
 LinkedIn: [Ederson do Nascimento](https://www.linkedin.com/in/edersondonascimento/)
